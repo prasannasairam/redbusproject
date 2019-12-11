@@ -1,0 +1,18 @@
+.navbar {
+    border-bottom: 2px solid white;
+}
+.navbarnav  {
+    font-size: 15px;
+
+}
+.jumbotron {
+    background: url('./images/Hero-banner-19th-updated.png');
+    width: 100%;
+    background-size: cover;
+    height: 450px;
+    border-radius: 0;
+}
+.jumbotron>article .justify-content-center {
+    position: relative;
+    top: 164px;
+}
